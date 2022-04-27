@@ -1,0 +1,69 @@
+/* Body */
+
+*
+{
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Navigation Bar */
+
+nav
+{
+    background-color: black;
+}
+
+/* Header */
+
+
+
+/* Quienes Somos */
+
+#quienes_somos
+{
+    background-color: black;
+    color: white;
+    text-align: left;
+}
+
+.fondo_iconos
+{
+    background-color: #07caf0;
+    text-align: center;
+}
+
+    
+/* Destacados */
+
+#destacados
+{
+    background-color: black;
+    color: white;
+}
+
+.card-img-top
+{
+    max-height: 10rem;
+}
+
+.card-body
+{
+    background-color: #07caf0;
+}
+
+/* Contacto */
+
+#contacto
+{
+    background-color: black;
+    color: white;
+}
+
+/* Footer */
+
+footer
+{
+    background-color: #07caf0;
+    color: white;
+}
